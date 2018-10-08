@@ -6,5 +6,5 @@ Custom Homebrew formulas
 
 To install this tap:
 
-	`brew tap csjayp/tap`
+	brew tap csjayp/tap
 
