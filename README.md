@@ -1,6 +1,7 @@
 # homebrew-tap
 Custom Homebrew formulas
 
+- arpspoof
 - subcalc
 - bsmtrace
 
