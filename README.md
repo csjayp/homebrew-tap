@@ -4,6 +4,7 @@ Custom Homebrew formulas
 - arpspoof
 - subcalc
 - bsmtrace
+- ministat
 
 To install this tap:
 
